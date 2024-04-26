@@ -1,4 +1,5 @@
 name: Deploy MKDocs
+run: cd desktop/wiki_annatel
 
 on:
   push:
